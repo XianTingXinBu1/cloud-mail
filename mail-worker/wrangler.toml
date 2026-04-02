@@ -31,9 +31,9 @@ crons = ["0 16 * * *"]	#定时任务每天晚上12点执行
 
 [vars]
 orm_log = false
-domain = ["test.venturoso.sbs"]
-admin = "admin@test.venturoso.sbs"
-jwt_secret = "mi3692580147"
+domain = [""]
+admin = ""
+jwt_secret = ""
 
 
 [build]
